@@ -1,16 +1,16 @@
 
 
-
+<hr/>
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?color=3da37a&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Osama+ALAHYANE;My+world+revolves+around+Softwer+Engineer;And+Web+Developer;Be+Welcome!+ツ" />
 </h1>
-<hr/>
-<br>
-<br>
 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <hr/>
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+
+
+<br/>
 
 <div style="display: inline_block">
   <p align="center">
@@ -26,7 +26,7 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  ![snake gif](https://github.com/alaosama/alaosama/blob/output/github-contribution-grid-snake-dark.svg)
+![snake gif](https://github.com/alaosama/alaosama/blob/output/github-contribution-grid-snake.svg)
   <br/><br/><br/>
 </div>
 
@@ -46,3 +46,10 @@
      <img  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alaosama&theme=github_dark&show_icons=true" />
   </a>
 </div> 
+
+<hr/>
+<br>
+
+<p align="center" >   
+  <img src="https://profile-counter.glitch.me/alaosama/count.svg" />  
+</p>
