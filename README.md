@@ -2,13 +2,13 @@
 
 <hr/>
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?color=3da37a&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Osama+ALAHYANE;My+world+revolves+around+Softwer+Engineer;And+Web+Developer;Be+Welcome!+ツ" />
+    <img src="https://readme-typing-svg.herokuapp.com/?color=31B67B&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Osama+ALAHYANE;My+world+revolves+around+Softwer+Engineer;And+Web+Developer;Be+Welcome!+ツ" />
 </h1>
 
 <br/>
 <hr/>
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 
 <br/>
 
@@ -26,7 +26,7 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-![snake gif](https://github.com/alaosama/alaosama/blob/output/github-contribution-grid-snake.svg)
+	![snake gif](https://github.com/alaosama/alaosama/blob/output/github-contribution-grid-snake.svg)
   <br/><br/><br/>
 </div>
 
