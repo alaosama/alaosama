@@ -2,7 +2,7 @@
 
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?color=3da37a&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Osama+ALAHYANE;=Aspiring++ML+Engineer" />
+    <img src="https://readme-typing-svg.herokuapp.com/?color=3da37a&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Osama+ALAHYANE;Aspiring++ML+Engineer;My+world+revolves+around+Softwer+Engineer+and+web+developer;Be+Welcome!+ツ" />
 </h1>
  <hr/>
 <br>
