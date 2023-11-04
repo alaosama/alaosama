@@ -47,7 +47,7 @@
      <img  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alaosama&theme=github_dark&show_icons=true" />
   </a>
 </div> 
-
+   
 <hr/>
 <br>
 
