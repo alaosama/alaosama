@@ -1,6 +1,7 @@
+<a href="#">
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3da37a&height=120&section=header"/>
+</a>
 
-
-<hr/>
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?color=31B67B&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Osama+ALAHYANE;My+world+revolves+around+Softwer+Engineer;And+Web+Developer;Be+Welcome!+ツ" />
 </h1>
@@ -50,6 +51,25 @@
 <hr/>
 <br>
 
+<div> 
+<p align="center">
+<a href="https://twitter.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bholajaivardhan" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in//" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jaivardhan-bhola-773944214" height="30" width="40" /></a>
+<a href="https://www.instagram.com//" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jaivardhan-b" height="30" width="40" /></a>
+<a href="https://leetcode.com//" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jaivardhan-bhola" height="30" width="40" /></a>
+</p>
+
+<br>
+
+</div>
 <p align="center" >   
   <img src="https://profile-counter.glitch.me/alaosama/count.svg" />  
 </p>
+
+<a href="#">
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3da37a&height=120&section=header"/>
+</a>
+
+<a href="#">
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3da37a&height=120&section=footer"/>
+</a>
