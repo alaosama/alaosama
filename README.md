@@ -4,6 +4,8 @@
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=alaosama.alaosama" />
 
+<p align='center'>
+<img src="https://media.giphy.com/media/IeRw5kXQYjNYTySeq8/giphy.gif" width="270" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?color=31B67B&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Osama+ALAHYANE;My+world+revolves+around+Softwer+Engineer;And+Web+Developer;Be+Welcome!+ツ" />
