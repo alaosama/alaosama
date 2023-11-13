@@ -16,18 +16,6 @@
 
 <br/>
 
-<div align="center">
- 
- 🔭 I’m currently working on **A Chat App And Online App**
- 
- 🌱 I’m currently learning **SQL, postgreSQL, Rust**
-
- 💬 Ask me about **Javascript, Java, CSS, Git... or anything [here](https://github.com/alaosama/alaosama/issues)**
-
- ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
- 
- </div>
-
 <br/>
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
