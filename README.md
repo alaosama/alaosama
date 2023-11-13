@@ -71,7 +71,11 @@
 
 <br>
 
+<div align=center>
+  <h3><b>📍 Profile Visitor Count</b></h3>
 </div>
+</div>
+
 <p align="center" >   
   <img src="https://profile-counter.glitch.me/alaosama/count.svg" />  
 </p>
