@@ -72,7 +72,7 @@
 <br><br>
 
 <h2 align="center"> Connect whit me </h2>
-
+<br>
 <div> 
 <p align="center">
 <a href="https://twitter.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bholajaivardhan" height="30" width="40" /></a>
