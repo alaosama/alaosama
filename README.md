@@ -2,10 +2,10 @@
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3da37a&height=120&section=header"/>
 </a>
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=alaosama.alaosama" />
+<!--<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=alaosama.alaosama" />
 
-<p align='center'>
-<img src="https://media.giphy.com/media/IeRw5kXQYjNYTySeq8/giphy.gif" width="270" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
+<!--<p align='center'>
+<img src="https://media.giphy.com/media/IeRw5kXQYjNYTySeq8/giphy.gif" width="270" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>-->
 
 
 
