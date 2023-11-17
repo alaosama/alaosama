@@ -59,7 +59,7 @@
    
 <br><br>
 
-<h2 align="center"> Connect whit me </h2>
+<h2 align="center"> Connect Whit Me : :smile: </h2>
 <br>
 <div> 
 <p align="center">
@@ -72,7 +72,7 @@
 <br>
 
 <div align=center>
-  <h3><b>📍 Profile Visitor Count</b></h3>
+  <h3><b> 	Profile Visitor Count   :pushpin: </b></h3>
 </div>
 </div>
 
