@@ -11,7 +11,8 @@
 
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?color=31B67B&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Osama+ALAHYANE;My+world+revolves+around+Softwer+Engineer;And+Web+Developer;Be+Welcome!+ツ" />
+    <img src="https://readme-typing-svg.herokuapp.com/?color=6FD25A&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Osama+ALAHYANE;My+world+revolves+around+Softwer+Engineer;And+Web+Developer;Be+Welcome!+ツ" />
+		<!--color=0d1117-->
 </h1>
 
 <br/>
@@ -47,10 +48,12 @@
 <div align="center">
   <br>
   <a href="#">
-    <img height="190rem" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=alaosama&show_icons=true&theme=vue-dark&count_private=true&bg_color=0d1117&hide_border=true"/>
+    <img height="190rem" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=alaosama&show_icons=true&theme=vue-dark&count_private=true&bg_color=003331&hide_border=true"/>
   </a>
+	<!--color=0d1117-->
+	
   <a href="#">
-    <img height="190rem" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alaosama&langs_count=8&count_private=false&layout=compact&theme=vue-dark&bg_color=0d1117&hide_border=true"/>
+    <img height="190rem" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alaosama&langs_count=8&count_private=false&layout=compact&theme=vue-dark&bg_color=003331&hide_border=true"/>
   </a>
   <a>
      <img  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alaosama&theme=github_dark&show_icons=true" />
