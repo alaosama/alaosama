@@ -56,7 +56,7 @@
     <img height="190rem" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alaosama&langs_count=8&count_private=false&layout=compact&theme=vue-dark&bg_color=003331&hide_border=true"/>
   </a>
   <a>
-     <img  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alaosama&theme=github_dark&show_icons=true" />
+     <img  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alaosama&theme=github_dark&show_icons=true&bg_color=003331" />
   </a>
 </div> 
    
