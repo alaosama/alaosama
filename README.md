@@ -12,8 +12,8 @@
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?color=6FD25A&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Osama+ALAHYANE;My+world+revolves+around+Softwer+Engineer;And+Web+Developer;Be+Welcome!+ツ" />
-<!-- 		<!--color=0d1117---3da37a--->
-</h1> -->
+		<!--color=0d1117---3da37a--->
+</h1>
 
 <br/>
 
