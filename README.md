@@ -26,7 +26,7 @@
 <div style="display: inline_block">
   <p align="center">
 	<a href="#">
-      <img align="center" src="https://skillicons.dev/icons?i=java,go,js,typescript,css,html,angular,vue,nodejs,php,mysql,postgresql,github,git,linux" />
+      <img align="center" src="https://skillicons.dev/icons?i=java,go,js,typescript,css,html,flutter,angular,vue,nodejs,mysql,postgresql,github,git,linux" />
 		<!--flask!-->
     </a>
   </p>
