@@ -63,7 +63,7 @@
    
 <br><br>
 
-<h2 align="center"> Connect Whit Me 😄 :  </h2>
+<h2 align="center"> Connect With Me 😄 :  </h2>
 <br>
 <div> 
 <p align="center">
