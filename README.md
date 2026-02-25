@@ -27,7 +27,7 @@
 <div style="display: inline_block">
   <p align="center">
 	<a href="#">
-      <img align="center" src="https://skillicons.dev/icons?i=java,js,typescript,css,html,react,tailwindcss,flutter,nodejs,mysql,github,git,vscode,notion" />
+      <img align="center" src="https://skillicons.dev/icons?i=linux,docker,java,python,js,typescript,css,react,tailwindcss,nodejs,flutter,mysql,postgresql,git,github,vscode,notion,jira" />
 <!--       <img align="center" src="https://skillicons.dev/icons?i=java,go,js,typescript,css,html,react,flutter,angular,vue,nodejs,mysql,github,git,vscode,notion,linux" /> -->
 		<!--flask!-->
     </a>
